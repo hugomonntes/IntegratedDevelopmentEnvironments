@@ -7,7 +7,8 @@ Las pruebas de software son una fase crítica en el desarrollo, donde se valida 
 ### Tipos de pruebas:
 
 - **Pruebas unitarias**: Validan unidades individuales del código, como funciones o clases. Se ejecutan tras compilar el código y se centran en la lógica. Se utilizan herramientas como JUnit en Java.
-- **Pruebas de estrés**: Evalúan la estabilidad de sistemas bajo cargas extremas.
+- **Pruebas de estrés**: Se enfocan en sistemas de red (servidores sometidos a
+mucha carga).
 - **Pruebas de integración**: Combinan módulos desarrollados por diferentes personas para verificar su interoperabilidad.
 - **Pruebas funcionales**: Comprueban si el sistema cumple con los requerimientos especificados.
 - **Pruebas de aceptación**: Realizadas por el cliente final para valorar aspectos funcionales y subjetivos como la usabilidad o estética.
