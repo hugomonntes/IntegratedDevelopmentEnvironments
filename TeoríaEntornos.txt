@@ -1,0 +1,12 @@
+Tipos de pruebas de software: 
+	- Pruebas de estres: se tratan de someter al servidor o a la red a cargas muy altas de datos para ver si lo soporta.
+	- Pruebas de integración: se realizan cuando varias partes de código están hechas por diferentes personas y al enlazarlas siguen funcionando.
+	- Pruebas funcionales: comprueban que se cumpla con la especificación.
+	- Pruebas de aceptación: son las pruebas finales que las realizan el cliente o usuarios que vayan a utilizar la aplicación.
+		-Alfa: realiza el cliente o usuario pero supervisado por el desarrollador.
+		-Beta: las hace el clinete o usuario pero en un entorno final.
+		
+
+Diferencia entre Caja Negra y Caja Blanca?
+
+En cuanto a las pruebas de caja negra se trata de probar el software sin ver nada de código, y en la caja blanca se ve el código y se verifica la estructura del software internamente no solo funcionalmente
